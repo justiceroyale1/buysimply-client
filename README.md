@@ -1,14 +1,6 @@
-# vue-project
+# BuySimply Client
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+This a test implement of a Figma UI for BuySimply
 
 ## Project Setup
 
@@ -27,3 +19,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Note
+You need to download the api as well. You will find it [here](https://github.com/justiceroyale1/buysimply-api)
