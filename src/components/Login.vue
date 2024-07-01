@@ -6,7 +6,7 @@ import axios from "axios";
 import { toast } from "vue3-toastify";
 import "vue3-toastify/dist/index.css";
 import { useCookies } from "vue3-cookies";
-import router from "@/router";
+import router from '../router';
 
 const banner = "/dance.png";
 
