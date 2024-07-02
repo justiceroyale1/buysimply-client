@@ -1,5 +1,5 @@
 <script setup>
-const logo = "/logo.png";
+const logo = new URL("/logo.png", import.meta.url);
 
 const props = defineProps({
     width: {
