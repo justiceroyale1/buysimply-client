@@ -12,7 +12,7 @@ export default defineConfig({
   ],
   resolve: {
     alias: {
-      '@': fileURLToPath(new URL('./src', import.meta.url + '/buysimply-client/'))
+      '@': fileURLToPath(new URL('./src', import.meta.url).href)
     }
   }
 })
