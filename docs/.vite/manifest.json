@@ -1,0 +1,26 @@
+{
+  "index.html": {
+    "file": "assets/index-ByxhjjU2.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/views/LoggedIn.vue"
+    ],
+    "css": [
+      "assets/index-EFyxVYiL.css"
+    ]
+  },
+  "src/views/LoggedIn.vue": {
+    "file": "assets/LoggedIn-Crxhh1VZ.js",
+    "name": "LoggedIn",
+    "src": "src/views/LoggedIn.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/LoggedIn-RH5AkTvH.css"
+    ]
+  }
+}
