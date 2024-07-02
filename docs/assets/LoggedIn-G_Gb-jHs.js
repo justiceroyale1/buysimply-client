@@ -1,1 +1,0 @@
-import{c as n,o as r,a}from"./index-BlC00Sr6.js";const _=(e,o)=>{const t=e.__vccOpts||e;for(const[c,s]of o)t[c]=s;return t},d={},i={class:"logged-in"},l=a("h1",{class:"text-center"},"You are now logged in!",-1),f=[l];function g(e,o){return r(),n("div",i,f)}const p=_(d,[["render",g]]);export{p as default};

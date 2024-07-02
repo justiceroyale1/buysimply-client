@@ -8,7 +8,7 @@ import "vue3-toastify/dist/index.css";
 import { useCookies } from "vue3-cookies";
 import router from '../router';
 
-const banner = "/dance.png";
+const banner = new URL("/dance.png", import.meta.url);
 
 const email = ref("");
 const password = ref("");
